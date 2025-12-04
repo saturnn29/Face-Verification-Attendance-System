@@ -2,7 +2,7 @@ AttendScan: Secure Facial Verification Attendance System
 
 AttendScan is an end-to-end facial recognition attendance system designed for secure enterprise environments. It features a 3-stage verification pipeline that integrates Liveness Detection (anti-spoofing), Real-Time Emotion Analysis, and Identity Verification using a custom-trained Metric Learning model.
 
-(Note: Replace image_d260aa.png with a screenshot of your actual app GUI if available)
+<img width="790" height="636" alt="image" src="https://github.com/user-attachments/assets/b313a465-f8c9-4486-85ab-d399ff11b67e" />
 
 🚀 Key Features
 
