@@ -158,4 +158,4 @@ database/: Directory storing employees.json and face_database.pkl.
 
 This project is for academic/educational purposes.
 
-Author: [Your Name]
+Author: [Linh Tran Hoang Duy]
