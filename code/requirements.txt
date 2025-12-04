@@ -1,0 +1,8 @@
+customtkinter
+opencv-python
+Pillow
+numpy<2.0.0
+deepface
+tensorflow-cpu
+pandas
+tf-keras
