@@ -24,7 +24,7 @@ A working webcam
 
 1. Clone the Repository
 
-git clone [https://github.com/your-username/AttendScan.git](https://github.com/your-username/AttendScan.git)
+git clone [https://github.com/saturnn29/Face-Verification-Attendance-System](https://github.com/saturnn29/Face-Verification-Attendance-System)
 cd AttendScan
 
 
