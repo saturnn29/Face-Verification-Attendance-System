@@ -1,0 +1,10 @@
+{
+    "EMP_001": {
+        "name": "Alice Smith",
+        "department": "Engineering"
+    },
+    "EMP_002": {
+        "name": "Bob Johnson",
+        "department": "Sales"
+    }
+}
